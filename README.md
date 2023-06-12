@@ -1,0 +1,2 @@
+# Kuchibashi_with_pram
+kuchibashiのGPTパラメーター共有
